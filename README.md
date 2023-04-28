@@ -6,6 +6,10 @@
 
 https://youtu.be/MOO5vrtTUTE
 
+# 参考文档
+
+https://ts.xcatliu.com/introduction/what-is-typescript.html
+
 # 笔记列表
 
 - [LESSON01-第一个 typescipt](/LESSON01/note/LESSON01.md)
