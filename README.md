@@ -13,3 +13,5 @@ https://ts.xcatliu.com/introduction/what-is-typescript.html
 # 笔记列表
 
 - [LESSON01-第一个 typescipt](/LESSON01/note/LESSON01.md)
+- [LESSON02-typescript基本类型](/LESSON02/note/LESSON02.md)
+- [LESSON03-typescript数组,元组,对象,枚举](/LESSON03/note/LESSON03.md)
