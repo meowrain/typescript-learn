@@ -1,3 +1,9 @@
+# 目录
+- [目录](#目录)
+- [第一个 typescript 文件](#第一个-typescript-文件)
+- [监视 typescript 文件](#监视-typescript-文件)
+- [编写 tsconfig](#编写-tsconfig)
+
 # 第一个 typescript 文件
 
 首先，在电脑内安装 typescript
@@ -46,7 +52,7 @@ tsc --init
 ![](https://static.meowrain.cn/i/2023/04/28/rftaa6-3.webp)
 ![](https://static.meowrain.cn/i/2023/04/28/rfwp8z-3.webp)
 ![](https://static.meowrain.cn/i/2023/04/28/s691u6-3.webp)
-
+![](https://static.meowrain.cn/i/2023/04/28/sdpy8k-3.webp)
 
 ```ts
 {
