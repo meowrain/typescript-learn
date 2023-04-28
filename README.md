@@ -5,3 +5,7 @@
 # 参考视频
 
 https://youtu.be/MOO5vrtTUTE
+
+# 笔记列表
+
+- [LESSON01-第一个 typescipt](/LESSON01/note/LESSON01.md)
